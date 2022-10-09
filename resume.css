@@ -1,0 +1,36 @@
+
+.left {
+	position: initial;
+	background-color: #034f84;
+	padding: 20px;
+	color: #f3f3f3;
+}
+.topright {
+	position: initial;
+	background-color: #92a8d1;
+	padding: 30px;
+
+}
+
+body {
+	background-color: #f7cac9;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.form {
+	width: 50%;
+	max-width: 1000px;
+	min-height: 100px;
+	background-color: #92a8d1;
+	margin: 0px;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
+
+.links
+{
+	position: initial;
+	padding: 30px;
+}
