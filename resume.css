@@ -1,14 +1,14 @@
 
 .left {
 	position: initial;
-	background-color: #034f84;
-	padding: 20px;
-	color: #f3f3f3;
+	background-color: #92a8d1;
+	padding: 30px;
 }
 .topright {
 	position: initial;
-	background-color: #92a8d1;
+	background-color: #034f84;
 	padding: 30px;
+	color: #f3f3f3;
 
 }
 
@@ -20,13 +20,13 @@ body {
 }
 
 .form {
-	width: 50%;
+	width: 66.67%;
 	max-width: 1000px;
 	min-height: 100px;
 	background-color: #92a8d1;
 	margin: 0px;
 	display: grid;
-	grid-template-columns: 1fr 2fr;
+	grid-template-columns: 2fr 1fr;
 }
 
 .links
